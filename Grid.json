@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "img":"/aadharcard.png",
+        "heading":"Aadharcard",
+        "content":"Click here to download digitally signed and password protected electronic copy of the Aadhar Card"
+    },
+
+    {
+        "id":2,
+        "img":"/pancard.png",
+        "heading":"Pan Card",
+        "content":"Click here to download digitally signed and password protected electronic copy of the Pan Card"
+    },
+
+    {
+        "id":3,
+        "img":"/electioncard.png",
+        "heading":"Election Card",
+        "content":"Click here to download digitally signed and password protected electronic copy of the Election Card"
+    },
+
+    {
+        "id":4,
+        "img":"/passport.png",
+        "heading":"Passport",
+        "content":"Click here to download digitally signed and password protected electronic copy of the Passport"
+    },
+
+    {
+        "id":5,
+        "img":"/pcc.png",
+        "heading":"PCC",
+        "content":"Click here to download digitally signed and password protected electronic copy of the pcc"
+    },
+
+    {
+        "id":6,
+        "img":"/drivinglicense.png",
+        "heading":"Driving Licence",
+        "content":"Click here to download digitally signed and password protected electronic copy of the Driving licence"
+    },
+
+    {
+        "id":7,
+        "img":"/studentvisa.png",
+        "heading":"Student Visa",
+        "content":"Click here to download digitally signed and password protected electronic copy of the Student Visa"
+    },
+
+    {
+        "id":8,
+        "img":"/visitorvisa.png",
+        "heading":"Visitor Visa",
+        "content":"Click here to download digitally signed and password protected electronic copy of the Visitor Visa"
+    }
+]
